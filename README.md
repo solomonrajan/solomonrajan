@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Abhishek!](https://abhisheknaidu.tech) 
+### Hey 👋🏽, I'm [Solomon Rajan!](https://solomonrajan.me) 
 
 <br/>
 
