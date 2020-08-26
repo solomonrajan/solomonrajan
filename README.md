@@ -21,7 +21,7 @@
 
 Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/5xtDarv3JMWO3kX7pAI/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
