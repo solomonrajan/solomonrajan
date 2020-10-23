@@ -5,13 +5,10 @@
 <a href="https://twitter.com/iamsolomonrajan">
   <img align="left" alt="Solomon Rajan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/solomonrajan">
-  <img align="left" alt="Solomon's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/encrypteduser">
+<a href="https://t.me/encrypteduser/">
   <img align="left" alt="Solomon's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
+<a href="https://www.reddit.com/user/solomonrajan/">
   <img align="left" alt="Solomon's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
@@ -32,7 +29,7 @@ Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I like owls!
 - 📫 How to reach me: solomonrajan@yahoo.com;
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📝[Resume](https://github.com/solomonrajan/solomonrajan.github.io/releases/download/1.0/solomon_rajan_resume.pdf/view)
 
 **Languages and Tools:**  
 
