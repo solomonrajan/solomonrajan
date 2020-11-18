@@ -22,14 +22,14 @@ Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [star](https://github.com/solomonrajan/too_soon);
+- 👨🏽‍💻 I’m currently working on [star](https://github.com/solomonrajan/solomonrajan.github.io);
 - 🌱 I’m currently learning GraphQL and C++; 
 - 👯 I’m looking to collaborate on [moon](https://github.com/solomonrajan/solomonrajan.test) 🤝;
 - 🤔 I’m looking for help with Data Structures and operation in social sciences 😭;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help, if I know about that!;
 - ⚡️ Fun-Fact: I like owls!
-- 📫 How to reach me: solomonrajan@yahoo.com;
-- 📝[Resume](https://github.com/solomonrajan/solomonrajan.github.io/releases/download/1.0/solomon_rajan_resume.pdf/view)
+- 📫 How to reach me: socialaccounts.utilizations@aleeas.com;
+- 📝[Resume](https://github.com/solomonrajan/solomonrajan.github.io/releases/view)
 
 **Languages and Tools:**  
 
