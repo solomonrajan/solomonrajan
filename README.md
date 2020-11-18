@@ -29,7 +29,7 @@ Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 - 💬 Ask me about anything, I am happy to help, if I know about that!;
 - ⚡️ Fun-Fact: I like owls!
 - 📫 How to reach me: socialaccounts.utilizations@aleeas.com;
-- 📝[Resume](https://github.com/solomonrajan/solomonrajan.github.io/releases/view)
+- 📝[Resume](https://github.com/solomonrajan/solomonrajan.github.io/releases/)
 
 **Languages and Tools:**  
 
