@@ -13,6 +13,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=solomonrajan.solomonrajan)
+<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R12UF4S)
 
 <br />
