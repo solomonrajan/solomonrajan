@@ -16,9 +16,7 @@
 [![Download Resume](https://img.shields.io/sourceforge/dt/solomonrajan-resume.svg)](https://sourceforge.net/projects/solomonrajan-resume/files/latest/download)
 <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R12UF4S)
-
 <br />
-
 Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/5xtDarv3JMWO3kX7pAI/giphy.gif" />
