@@ -17,8 +17,9 @@
 <br>
 <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R12UF4S)
-<br />
+<br>
 <img src="https://img.shields.io/liberapay/goal/solomon.rajan.svg?logo=liberapay">
+<br>
 Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/5xtDarv3JMWO3kX7pAI/giphy.gif" />
