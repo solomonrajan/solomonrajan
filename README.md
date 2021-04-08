@@ -15,8 +15,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=solomonrajan.solomonrajan)
 [![Download Resume](https://img.shields.io/sourceforge/dt/solomonrajan-resume.svg)](https://sourceforge.net/projects/solomonrajan-resume/files/latest/download)
 <br>
+<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R12UF4S)
 <br />
+<img src="https://img.shields.io/liberapay/goal/solomon.rajan.svg?logo=liberapay">
 Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/5xtDarv3JMWO3kX7pAI/giphy.gif" />
