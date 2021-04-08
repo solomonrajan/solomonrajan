@@ -19,6 +19,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R12UF4S)
 <br>
 <img src="https://img.shields.io/liberapay/goal/solomon.rajan.svg?logo=liberapay">
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="solomonrajan" data-color="#FFDD00" data-emoji="🍫"  data-font="Poppins" data-text="Buy me a chocolate" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 <br>
 Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 
