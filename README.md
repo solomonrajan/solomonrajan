@@ -53,5 +53,6 @@ Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 
 
 ![Solomon's github stats](https://github-readme-stats.vercel.app/api?username=solomonrajan&show_icons=true)
+![Solomon's github stats](https://github-readme-stats.vercel.app/api?username=solomonrajan&count_private=true&include_all_commits=true&show_icons=true&bg_color=90,103050,109095&title_color=fff&text_color=fff&icon_color=fff&hide=prs)
 
 
