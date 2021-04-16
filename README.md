@@ -30,7 +30,7 @@ Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 
 - 👨🏽‍💻 I’m currently working on [star](https://github.com/solomonrajan/solomonrajan.github.io);
 - 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [moon](https://github.com/solomonrajan/solomonrajan.test) 🤝;
+- 👯 I’m looking to collaborate on [moon](https://github.com/solomonrajan/solomonrajan.github.io) 🤝;
 - 🤔 I’m looking for help with Data Structures and operation in social sciences 😭;
 - 💬 Ask me about anything, I am happy to help, if I know about that!;
 - ⚡️ Fun-Fact: I like owls!
@@ -53,7 +53,6 @@ Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 
 
 
-![Solomon's github stats](https://github-readme-stats.vercel.app/api?username=solomonrajan&show_icons=true)
 ![Solomon's github stats](https://github-readme-stats.vercel.app/api?username=solomonrajan&count_private=true&include_all_commits=true&show_icons=true&bg_color=90,103050,109095&title_color=fff&text_color=fff&icon_color=fff&hide=prs)
 
 
