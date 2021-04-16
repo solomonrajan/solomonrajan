@@ -23,7 +23,7 @@
 <br>
 Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/5xtDarv3JMWO3kX7pAI/giphy.gif" />
+  <img align="right" alt="GIF" src="https://tenor.com/view/flower-mini-flowers-gif-14199510" />
   
 **Talking about Personal Stuffs:**
 
