@@ -24,7 +24,7 @@
 Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 
   <img align="right" alt="GIF" src="https://media.tenor.com/images/772da4b883ba49f8354162f2d142a955/tenor.gif" />
-  <div class="tenor-gif-embed" data-postid="14199510" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/flower-mini-flowers-gif-14199510">Flower Mini Flowers GIF</a> from <a href="https://tenor.com/search/flower-gifs">Flower GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <div class="tenor-gif-embed" align="right" data-postid="14199510" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/flower-mini-flowers-gif-14199510">Flower Mini Flowers GIF</a> from <a href="https://tenor.com/search/flower-gifs">Flower GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
 **Talking about Personal Stuffs:**
 
