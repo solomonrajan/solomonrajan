@@ -3,13 +3,13 @@
 <br/>
 
 <a href="https://twitter.com/iamsolomonrajan">
-  <img align="left" alt="Solomon Rajan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Solomon Rajan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/twitter.svg" />
 </a>
 <a href="https://t.me/encrypteduser/">
-  <img align="left" alt="Solomon's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Solomon's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/telegram.svg" />
 </a>
 <a href="https://www.reddit.com/user/solomonrajan/">
-  <img align="left" alt="Solomon's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Solomon's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/reddit.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=solomonrajan.solomonrajan)
@@ -19,9 +19,10 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R12UF4S)
 <br>
 <br>
-<img src="https://img.shields.io/liberapay/goal/solomon.rajan.svg?logo=liberapay">
+<img src="https://img.shields.io/liberapay/receives/solomon.rajan.svg?logo=liberapay">
 <br>
-Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
+<br>
+Hi, I'm Solomon Rajan, a noob Developer and Professional Medical and Psychiatric Social Worker 🚀 from India.
 
   <img align="right" alt="GIF" src="https://media.tenor.com/images/772da4b883ba49f8354162f2d142a955/tenor.gif" />
   
@@ -30,11 +31,11 @@ Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 
 - 👨🏽‍💻 I’m currently working on [star](https://github.com/solomonrajan/solomonrajan.github.io);
 - 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [moon](https://github.com/solomonrajan/solomonrajan.github.io) 🤝;
+- 👯 I’m looking to collaborate on [moon](https://github.com/solomonrajan/download-navi) 🤝;
 - 🤔 I’m looking for help with Data Structures and operation in social sciences 😭;
 - 💬 Ask me about anything, I am happy to help, if I know about that!;
 - ⚡️ Fun-Fact: I like owls!
-- 📫 How to reach me: [Mail me](mailto:socialaccounts.utilizations@aleeas.com:) ;
+- 📫 How to reach me: [Mail me](mailto:contaactme@solomonrajan.com:) ;
 - 📝[Resume](https://github.com/solomonrajan/solomonrajan.github.io/releases/latest/download/solomon_rajan_resume.pdf)
 
 **Languages and Tools:**  
@@ -44,7 +45,6 @@ Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -53,6 +53,6 @@ Hi, I'm Solomon Rajan, a noob Developer 🚀 from India.
 
 
 
-![Solomon's github stats](https://github-readme-stats.vercel.app/api?username=solomonrajan&count_private=true&include_all_commits=true&show_icons=true&bg_color=90,103050,109095&title_color=fff&text_color=fff&icon_color=fff&hide=prs)
-
-
+![Solomon's github stats](https://github-readme-stats.vercel.app/api?username=solomonrajan&count_private=true&include_all_commits=true&show_icons=true&&theme=radical)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=solomonrajan&repo=solomonrajan.github.io&theme=radical)](https://github.com/solomonrajan/solomonrajan.github.io)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomonrajan&layout=compact&theme=radical)](https://github.com/solomonrajan/solomonrajan.github.io)
