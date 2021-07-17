@@ -1,33 +1,24 @@
-### Hey 👋🏽, I'm [Solomon Rajan!](https://solomonrajan.me) 
+### Hey 👋🏽, I'm [Solomon Rajan!](https://solomonrajan.com) 
+A noob Developer and Professional Medical and Psychiatric Social Worker from India  🚀 .
+
 ![Website](https://img.shields.io/website?color=pink&down_color=lightgreen&label=solomonrajan.com&logo=solu&logoColor=green&style=flat-square&up_message=online&url=https%3A%2F%2Fsolomonrajan.com%2F)
 <br>
 ![](https://komarev.com/ghpvc/?username=solomonrajan&style=flat-square)
 [![Download Resume](https://img.shields.io/sourceforge/dt/solomonrajan-resume.svg?style=flat-square)](https://sourceforge.net/projects/solomonrajan-resume/files/latest/download)
 <br>
 [![support](https://img.shields.io/badge/Support%20Me-Ko--Fi-orange?style=flat-square)](https://ko-fi.com/R6R12UF4S)
+<img src="https://img.shields.io/liberapay/receives/solomon.rajan.svg?logo=liberapay&style=flat-square">
+------------
+### **Contact Me**
+
+<img align="left" alt="solomonrajan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="https://www.linkedin.com/in/solomonrajan/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="https://twitter.com/iamsolomonrajan/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="https://www.reddit.com/user/solomonrajan/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+<img align="left" alt="https://t.me/encrypteduser/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/telegram.svg" />
 <br/>
-
-<a href="https://twitter.com/iamsolomonrajan">
-  <img align="left" alt="Solomon Rajan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/twitter.svg" />
-</a>
-<a href="https://t.me/encrypteduser/">
-  <img align="left" alt="Solomon's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/telegram.svg" />
-</a>
-<a href="https://www.reddit.com/user/solomonrajan/">
-  <img align="left" alt="Solomon's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/reddit.svg" />
-</a>
-
-
-<br>
-<br>
-<img src="https://img.shields.io/liberapay/receives/solomon.rajan.svg?logo=liberapay?style=flat-square">
-<br>
-<br>
-Hi, I'm Solomon Rajan, a noob Developer and Professional Medical and Psychiatric Social Worker 🚀 from India.
-
-  <img align="right" alt="GIF" src="https://media.tenor.com/images/772da4b883ba49f8354162f2d142a955/tenor.gif" />
-  
-  
+<img align="right" alt="GIF" src="https://media.tenor.com/images/772da4b883ba49f8354162f2d142a955/tenor.gif" />
+ 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [A small website about me](https://github.com/solomonrajan/solomonrajan.github.io)
