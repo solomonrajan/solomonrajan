@@ -12,14 +12,14 @@
   <img align="left" alt="Solomon's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/reddit.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=solomonrajan.solomonrajan)
-[![Download Resume](https://img.shields.io/sourceforge/dt/solomonrajan-resume.svg)](https://sourceforge.net/projects/solomonrajan-resume/files/latest/download)
+![](https://visitor-badge.glitch.me/badge?page_id=solomonrajan.solomonrajan?style=flat-square)
+[![Download Resume](https://img.shields.io/sourceforge/dt/solomonrajan-resume.svg?style=flat-square)](https://sourceforge.net/projects/solomonrajan-resume/files/latest/download)
 <br>
 <br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R12UF4S)
+[![support](https://img.shields.io/badge/Support%20Me-Ko--Fi-orange?style=flat-square)](https://ko-fi.com/R6R12UF4S)
 <br>
 <br>
-<img src="https://img.shields.io/liberapay/receives/solomon.rajan.svg?logo=liberapay">
+<img src="https://img.shields.io/liberapay/receives/solomon.rajan.svg?logo=liberapay?style=flat-square">
 <br>
 <br>
 Hi, I'm Solomon Rajan, a noob Developer and Professional Medical and Psychiatric Social Worker 🚀 from India.
@@ -29,13 +29,13 @@ Hi, I'm Solomon Rajan, a noob Developer and Professional Medical and Psychiatric
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [star](https://github.com/solomonrajan/solomonrajan.github.io);
-- 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [moon](https://github.com/solomonrajan/download-navi) 🤝;
-- 🤔 I’m looking for help with Data Structures and operation in social sciences 😭;
-- 💬 Ask me about anything, I am happy to help, if I know about that!;
+- 👨🏽‍💻 I’m currently working on [A small website about me](https://github.com/solomonrajan/solomonrajan.github.io)
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to create a personalised version based on [Download-Navi](https://github.com/solomonrajan/download-navi) 🤝
+- 🤔 I’m looking for help with Website development and operation in Material You Design 😭
+- 💬 Ask me about anything, I am happy to help, if I know about that!
 - ⚡️ Fun-Fact: I like owls!
-- 📫 How to reach me: [Mail me](mailto:contaactme@solomonrajan.com:) ;
+- 📫 How to reach me: [Mail me](mailto:contaactme@solomonrajan.com:)
 - 📝[Resume](https://github.com/solomonrajan/solomonrajan.github.io/releases/latest/download/solomon_rajan_resume.pdf)
 
 **Languages and Tools:**  
