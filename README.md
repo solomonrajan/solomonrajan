@@ -1,5 +1,10 @@
 ### Hey 👋🏽, I'm [Solomon Rajan!](https://solomonrajan.me) 
-
+![Website](https://img.shields.io/website?color=pink&down_color=lightgreen&label=solomonrajan.com&logo=solu&logoColor=green&style=flat-square&up_message=online&url=https%3A%2F%2Fsolomonrajan.com%2F)
+<br>
+![](https://komarev.com/ghpvc/?username=solomonrajan&style=flat-square)
+[![Download Resume](https://img.shields.io/sourceforge/dt/solomonrajan-resume.svg?style=flat-square)](https://sourceforge.net/projects/solomonrajan-resume/files/latest/download)
+<br>
+[![support](https://img.shields.io/badge/Support%20Me-Ko--Fi-orange?style=flat-square)](https://ko-fi.com/R6R12UF4S)
 <br/>
 
 <a href="https://twitter.com/iamsolomonrajan">
@@ -12,11 +17,7 @@
   <img align="left" alt="Solomon's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/reddit.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=solomonrajan.solomonrajan?style=flat-square)
-[![Download Resume](https://img.shields.io/sourceforge/dt/solomonrajan-resume.svg?style=flat-square)](https://sourceforge.net/projects/solomonrajan-resume/files/latest/download)
-<br>
-<br>
-[![support](https://img.shields.io/badge/Support%20Me-Ko--Fi-orange?style=flat-square)](https://ko-fi.com/R6R12UF4S)
+
 <br>
 <br>
 <img src="https://img.shields.io/liberapay/receives/solomon.rajan.svg?logo=liberapay?style=flat-square">
