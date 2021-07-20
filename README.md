@@ -17,9 +17,9 @@ A noob Developer and Professional Medical and Psychiatric Social Worker from Ind
 <img align="left" alt="https://www.reddit.com/user/solomonrajan/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 <img align="left" alt="https://t.me/encrypteduser/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/telegram.svg" />
 <br/>
-<img align="right" alt="GIF" src="https://media.tenor.com/images/772da4b883ba49f8354162f2d142a955/tenor.gif" />
- 
-**Talking about Personal Stuffs:**
+<img align="right" alt="GIF" src="https://media.tenor.com/images/772da4b883ba49f8354162f2d142a955/tenor.gif">
+
+### **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [A small website about me](https://github.com/solomonrajan/solomonrajan.github.io)
 - 🌱 I’m currently learning Data Science
