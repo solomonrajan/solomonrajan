@@ -26,3 +26,7 @@ in Material You Design 😭
 - ⚡️ Fun-Fact: I like owls!
 <!--- 📫 How to reach me: [Mail me](mailto:.com:) -->
 - 📝[Resume](https://github.com/solomonrajan/solomonrajan.github.io/releases/latest/download/solomon_rajan_resume.pdf)
+
+## 📜 Resume
+
+[![Github Release](https://img.shields.io/badge/Get%20it%20on%20Github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/solomonrajan/solomonrajan.github.io/releases/latest/download/solomon_rajan_resume.pdf)
