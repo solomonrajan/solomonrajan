@@ -17,13 +17,13 @@ Keralite Opensource Developer and Professional Medical and Psychiatric Social Wo
 <a href="https://app.daily.dev/solomon_rajan"><img src="https://api.daily.dev/devcards/aca3df908c764a86b371727fbaf0de8c.png?r=vt2" width="250" align="right" alt="Solomon Rajan's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
-👨🏽‍💻 I’m currently working on [A small website about me](https://github.com/solomonrajan/solomonrajan.github.io)
-🌱 I’m currently learning Data Science
-👯 I’m looking to create a personalised version based on [Download-Navi](https://github.com/solomonrajan/download-navi) 🤝
-🤔 I’m looking for help with Website development and operation 
+*👨🏽‍💻 I’m currently working on [A small website about me](https://github.com/solomonrajan/solomonrajan.github.io)
+*🌱 I’m currently learning Data Science
+*👯 I’m looking to create a personalised version based on [Download-Navi](https://github.com/solomonrajan/download-navi) 🤝
+*🤔 I’m looking for help with Website development and operation 
 in Material You Design 😭
-💬 Ask me about anything, I am happy to help, if I know about that!
-⚡️ Fun-Fact: I like owls!
+*💬 Ask me about anything, I am happy to help, if I know about that!
+*⚡️ Fun-Fact: I like owls!
 <!--- 📫 How to reach me: [Mail me](mailto:.com:) -->
 
 ## 📜 Resume
