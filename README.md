@@ -20,7 +20,8 @@ Keralite Opensource Developer and Professional Medical and Psychiatric Social Wo
 - 👨🏽‍💻 I’m currently working on [A small website about me](https://github.com/solomonrajan/solomonrajan.github.io)
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to create a personalised version based on [Download-Navi](https://github.com/solomonrajan/download-navi) 🤝
-- 🤔 I’m looking for help with Website development and operation in Material You Design 😭
+- 🤔 I’m looking for help with Website development and operation 
+in Material You Design 😭
 - 💬 Ask me about anything, I am happy to help, if I know about that!
 - ⚡️ Fun-Fact: I like owls!
 <!--- 📫 How to reach me: [Mail me](mailto:.com:) -->
