@@ -29,3 +29,5 @@ in Material You Design 😭
 ## 📜 Resume
 
 [![Github Release](https://img.shields.io/badge/Get%20it%20on%20Github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/solomonrajan/solomonrajan.github.io/releases/latest/download/solomon_rajan_resume.pdf)
+
+[<img height=80 alt="Get it on GitHub" src="assets/get-it-on-github.png"/>](https://github.com/solomonrajan/solomonrajan.github.io/releases/latest/download/solomon_rajan_resume.pdf)
