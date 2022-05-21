@@ -9,6 +9,6 @@ Nominate ([@solomonrajan](https://solomonrajan.com)) as **[GitHub Star](https://
 
 ## 🙋 About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=FDD835&vCenter=true&lines=Professional+Medical+and+Psychiatric+Social+Worker;Social+Cybersecurity+Researcher;Open-Source+Promotor,+Developer;Owl+Lover;Plutonian;Nice+to+meet+you+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=FDD835&vCenter=true&width=558&lines=Professional+Medical+and+Psychiatric+Social+Worker;Social+Cybersecurity+Researcher;Open-Source+Promotor,+Developer;Owl+Lover;Plutonian;Nice+to+meet+you+!)](https://git.io/typing-svg)
 
 Keralite Opensource Developer and Professional Medical and Psychiatric Social Worker, Social Cybersecurity Researcher, and Social Community Builder. 💻💛🦉☕😀
