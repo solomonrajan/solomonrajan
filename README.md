@@ -31,3 +31,9 @@ in Material You Design 😭
 <!-- [![Github Release](https://img.shields.io/badge/Get%20it%20on%20Github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/solomonrajan/solomonrajan.github.io/releases/latest/download/solomon_rajan_resume.pdf) -->
 
 [<img height=80 alt="Get it on GitHub" src="assets/get-it-on-github.png"/>](https://github.com/solomonrajan/solomonrajan.github.io/releases/latest/download/solomon_rajan_resume.pdf)
+
+## 🎧 Spotify Playing
+
+[![Brain Food](https://img.shields.io/badge/Brain%20Food-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWXLeA8Omikj7) [![Mint](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n) [![phonk](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) [![Soul Lounge](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX62Nfha2yFhL)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=burbfs896vb461yxj8p437fw8&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=burbfs896vb461yxj8p437fw8&redirect=true)
