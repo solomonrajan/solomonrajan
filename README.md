@@ -38,3 +38,13 @@ in Material You Design 😭
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=burbfs896vb461yxj8p437fw8&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=burbfs896vb461yxj8p437fw8&redirect=true) -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=burbfs896vb461yxj8p437fw8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+## 🔧 Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ai,ae,ps)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=twitter,linkedin)](https://skillicons.dev)
