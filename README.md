@@ -50,3 +50,14 @@ in Material You Design 😭
 [![My Skills](https://skillicons.dev/icons?i=twitter,linkedin)](https://skillicons.dev)
 
 ## 💬 Community
+
+<!-- markdownlint-disable MD033 -->
+
+<details>
+    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+</details>
