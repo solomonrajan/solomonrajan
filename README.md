@@ -77,3 +77,7 @@ in Material You Design 😭
 </details>
 
 <!-- markdownlint-enable MD033 -->
+
+![Metrics](https://github.com/solomonrajan/solomonrajan/blob/main/github-metrics.svg)
+
+---
