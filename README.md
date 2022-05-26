@@ -82,3 +82,5 @@ in Material You Design 😭
 ![Metrics](https://metrics.lecoq.io/solomonrajan)
 
 ---
+
+## 🔓 Credits
