@@ -20,7 +20,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
-          config_timezone: Asia/Manila
+          config_timezone: Asia/Kolkata
           config_twemoji: yes
 
           # Introduction plugin
