@@ -79,7 +79,6 @@ in Material You Design 😭
 <!-- markdownlint-enable MD033 -->
 
 <!--![Metrics](https://github.com/solomonrajan/solomonrajan/blob/main/github-metrics.svg)-->
-![Metrics](/github-metrics.svg)
 ![Metrics](https://metrics.lecoq.io/solomonrajan)
 
 ---
