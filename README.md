@@ -75,3 +75,5 @@ in Material You Design 😭
 ![Solomon Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomonrajan&show_icons=true) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=solomonrajan&layout=compact)](https://github.com/solomonrajan/github-readme-stats)
 
 </details>
+
+<!-- markdownlint-enable MD033 -->
