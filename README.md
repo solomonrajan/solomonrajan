@@ -68,3 +68,10 @@ in Material You Design 😭
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=solomonrajan)
 
 </details>
+
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+![Solomon Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomonrajan&show_icons=true) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=solomonrajan&layout=compact)](https://github.com/solomonrajan/github-readme-stats)
+
+</details>
