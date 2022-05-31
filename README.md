@@ -84,3 +84,5 @@ in Material You Design 😭
 ---
 
 ## 🔓 Credits
+
+[![GitHub](https://img.shields.io/badge/inspired%20from-warengonzaga-%230047B3.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/warengonzaga)
