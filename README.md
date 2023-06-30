@@ -11,7 +11,7 @@ Nominate ([@solomonrajan](https://solomonrajan.com)) as **[GitHub Star](https://
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=FDD835&vCenter=true&width=558&lines=Professional+Medical+and+Psychiatric+Social+Worker;Social+Cybersecurity+Researcher;Open-Source+Promotor,+Developer;Owl+Lover;Plutonian;Nice+to+meet+you+!)](https://git.io/typing-svg)
 
-Keralite Opensource Developer and Professional Medical and Psychiatric Social Worker, Social Cybersecurity Researcher, and Social Community Builder. 💻💛🦉☕😀
+Keralite Opensource Developer and Professional Medical and Psychiatric Social Worker, Social Cybersecurity Researcher, and Social Community Builder.
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/solomon_rajan"><img src="https://api.daily.dev/devcards/aca3df908c764a86b371727fbaf0de8c.png?r=vt2" width="250" align="right" alt="Solomon Rajan's Dev Card"/></a>
@@ -76,11 +76,6 @@ in Material You Design 😭
 ![Solomon Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomonrajan&show_icons=true) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=solomonrajan&layout=compact)](https://github.com/solomonrajan/github-readme-stats)
 
 </details>
-
-<!-- markdownlint-enable MD033 -->
-
-<!--![Metrics](https://github.com/solomonrajan/solomonrajan/blob/main/github-metrics.svg)-->
-![Metrics](https://metrics.lecoq.io/solomonrajan)
 
 ---
 
