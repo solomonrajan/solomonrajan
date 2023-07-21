@@ -32,24 +32,6 @@ in Material You Design 😭
 
 [<img height=80 alt="Get it on GitHub" src="assets/get-it-on-github.png"/>](https://github.com/solomonrajan/solomonrajan.github.io/releases/latest/download/solomon_rajan_resume.pdf)
 
-## 🎧 Spotify Playing
-
-[![Brain Food](https://img.shields.io/badge/Brain%20Food-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWXLeA8Omikj7) [![Mint](https://img.shields.io/badge/Mint-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n) [![phonk](https://img.shields.io/badge/phonk-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) [![Soul Lounge](https://img.shields.io/badge/Soul%20Lounge-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX62Nfha2yFhL)
-
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=burbfs896vb461yxj8p437fw8&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=burbfs896vb461yxj8p437fw8&redirect=true) -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=burbfs896vb461yxj8p437fw8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-## 🔧 Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=ai,ae,ps)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/iamsolomonrajan)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/solomonrajan)
-
 ## 💬 Community
 
 <!-- markdownlint-disable MD033 -->
