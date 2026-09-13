@@ -37,20 +37,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solomonrajan&theme=radical&hide_border=true&bg_color=141321" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solomonrajan&theme=tokyo-night&hide_border=true&bg_color=1A1B27" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solomonrajan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=solomonrajan&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solomonrajan&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonrajan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=solomonrajan&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=solomonrajan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
