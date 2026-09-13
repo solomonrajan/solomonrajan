@@ -59,6 +59,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=solomonrajan&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <a href="https://github.com/solomonrajan?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90" alt="Starstruck" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="90" alt="Galaxy Brain" />
+  </a>
+</div>
+
 ## 📝 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
