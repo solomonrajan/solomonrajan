@@ -32,8 +32,8 @@
 <!-- START_COMMIT_TABLE -->
 | 📁 Repository | 📝 Description | 🚀 Latest Commit |
 | :--- | :--- | :--- |
-| 🌐 **[solomonrajan.github.io](https://github.com/solomonrajan/solomonrajan.github.io)** | A hobby personal website *(Current working repo)* | [![Last Commit](https://img.shields.io/github/last-commit/solomonrajan/solomonrajan.github.io?style=flat-square&color=2ea44f)](https://github.com/solomonrajan/solomonrajan.github.io/commits/main) |
-| 👤 **[solomonrajan](https://github.com/solomonrajan/solomonrajan)** | GitHub Profile Readme | [![Last Commit](https://img.shields.io/github/last-commit/solomonrajan/solomonrajan?style=flat-square&color=2ea44f)](https://github.com/solomonrajan/solomonrajan/commits/main) |
+| 🌐 **[solomonrajan.github.io](https://github.com/solomonrajan/solomonrajan.github.io)** | A hobby personal website *(Current working repo)* | `d46c73a` - chore: add changelog view and remove legacy cli...<br/>[![Last Commit](https://img.shields.io/github/last-commit/solomonrajan/solomonrajan.github.io?style=flat-square&color=2ea44f)](https://github.com/solomonrajan/solomonrajan.github.io/commits/main) |
+| 👤 **[solomonrajan](https://github.com/solomonrajan/solomonrajan)** | GitHub Profile Readme | `93b9120` - feat: add script and workflow to automatically ...<br/>[![Last Commit](https://img.shields.io/github/last-commit/solomonrajan/solomonrajan?style=flat-square&color=2ea44f)](https://github.com/solomonrajan/solomonrajan/commits/main) |
 <!-- END_COMMIT_TABLE -->
 
 ## 📊 3D GitHub Stats
