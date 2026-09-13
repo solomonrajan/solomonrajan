@@ -34,30 +34,20 @@
 | 🌐 **[solomonrajan.github.io](https://github.com/solomonrajan/solomonrajan.github.io)** | A hobby personal website *(Current working repo)* | [![Last Commit](https://img.shields.io/github/last-commit/solomonrajan/solomonrajan.github.io?style=flat-square&color=2ea44f)](https://github.com/solomonrajan/solomonrajan.github.io/commits/main) |
 | 👤 **[solomonrajan](https://github.com/solomonrajan/solomonrajan)** | GitHub Profile Readme | [![Last Commit](https://img.shields.io/github/last-commit/solomonrajan/solomonrajan?style=flat-square&color=2ea44f)](https://github.com/solomonrajan/solomonrajan/commits/main) |
 
-## 📊 GitHub Stats
+## 📊 3D GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solomonrajan&theme=tokyo-night&hide_border=true&bg_color=1A1B27" alt="Activity Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Stats" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solomonrajan&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solomonrajan&theme=dracula" alt="GitHub Profile Details" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=solomonrajan&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=solomonrajan&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=solomonrajan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=solomonrajan&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
 
 ## 🏆 GitHub Achievements
 
