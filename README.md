@@ -33,7 +33,7 @@
 | 📁 Repository | 📝 Description | 🚀 Latest Commit |
 | :--- | :--- | :--- |
 | 🌐 **[solomonrajan.github.io](https://github.com/solomonrajan/solomonrajan.github.io)** | A hobby personal website *(Current working repo)* | `b0234d5` - chore: update changelog [skip ci]<br/>[![Last Commit](https://img.shields.io/github/last-commit/solomonrajan/solomonrajan.github.io?style=flat-square&color=2ea44f)](https://github.com/solomonrajan/solomonrajan.github.io/commits/main) |
-| 👤 **[solomonrajan](https://github.com/solomonrajan/solomonrajan)** | GitHub Profile Readme | `c61f8a5` - Auto-update latest commit status<br/>[![Last Commit](https://img.shields.io/github/last-commit/solomonrajan/solomonrajan?style=flat-square&color=2ea44f)](https://github.com/solomonrajan/solomonrajan/commits/main) |
+| 👤 **[solomonrajan](https://github.com/solomonrajan/solomonrajan)** | GitHub Profile Readme | `368e387` - Auto-update latest commit status<br/>[![Last Commit](https://img.shields.io/github/last-commit/solomonrajan/solomonrajan?style=flat-square&color=2ea44f)](https://github.com/solomonrajan/solomonrajan/commits/main) |
 <!-- END_COMMIT_TABLE -->
 
 ## 📊 3D GitHub Stats
